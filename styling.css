@@ -1,6 +1,13 @@
-body{
-    background-color: bisque;
-}
+body {
+    margin: 0;
+    font-size: 120%
+    font-family "Helvetica", Arial, sans-serif;
+    }
+    nav {
+        background-color: brown;
+        font-size: 140%;
+    }
+
 h1 {
     background-color: red;
     color: rgb(0, 255, 170);
@@ -12,4 +19,5 @@ h2 {
 }
 em{
     color: yellowgreen;
+    background-color: grey;
 }
