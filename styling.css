@@ -3,7 +3,12 @@ body{
 }
 h1 {
     background-color: red;
-    color: orangered;
+    color: rgb(0, 255, 170);
+}
+h2 {
+    color: green;
+    text-align: center;
+    border-style: dotted;
 }
 em{
     color: yellowgreen;
